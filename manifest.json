@@ -1,0 +1,9 @@
+{
+  "id": "com.eurostream.search",
+  "version": "1.0.0",
+  "name": "EuroStreaming Addon",
+  "description": "Addon Stremio per serie TV da Euro Streaming",
+  "resources": ["stream"],
+  "types": ["series"],
+  "idPrefixes": ["tt"]
+}
